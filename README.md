@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my expertise in full-stack development, UI/UX design, and digital solutions. Built with cutting-edge technologies and featuring interactive animations, dynamic content, and a professional design aesthetic.
 
-![Portfolio Preview](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![Portfolio Preview](Screenshot.png)
 
 ## ✨ Features
 
@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Phone**: +234 906 658 8231
 - **LinkedIn**: [linkedin.com/in/kelvin-ahante](https://www.linkedin.com/in/kelvin-ahante/)
 - **GitHub**: [github.com/kiviekelvin](https://github.com/kiviekelvin)
-- **Portfolio**: [Live Demo](https://your-portfolio-url.com)
+- **Portfolio**: [Live Demo](https://kiviekelvin.github.io/my-portfolio-website/)
 
 ## 🙏 **Acknowledgments**
 

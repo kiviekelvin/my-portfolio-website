@@ -390,8 +390,7 @@ const Hero: React.FC = () => {
           backgroundSize: '50px 50px',
         }}
       />
-    </section>
-  );
+    </section>)
 };
 
 export default Hero;
